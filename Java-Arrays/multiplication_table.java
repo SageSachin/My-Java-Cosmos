@@ -11,5 +11,6 @@ public class multiplication_table {
         for(int i=0;i<9;i++){
             System.out.println(arr[i]*arr[i]);
         }
+        sc.close();
     }
 }
